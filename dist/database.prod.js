@@ -1,0 +1,1 @@
+"use strict";var mongoose=require("mongoose"),Schema=mongoose.Schema,departmentsSchema=new Schema({name:{type:String,trim:!0}});

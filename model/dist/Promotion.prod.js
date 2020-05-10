@@ -1,0 +1,1 @@
+"use strict";var mongoose=require("mongoose"),Schema=mongoose.Schema,tablePromotionSchema=new Schema({code:{type:String},active:{type:Boolean},discount:{type:String},product_id:{type:Number}});module.exports=mongoose.model("TablePromotion",tablePromotionSchema);

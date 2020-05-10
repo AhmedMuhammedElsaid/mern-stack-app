@@ -1,0 +1,1 @@
+"use strict";var mongoose=require("mongoose"),Schema=mongoose.Schema,ProductSchema=new Schema({name:{type:String,trim:!0},price:{type:Number},department_id:{type:Number},product_id:{type:Number}});module.exports=mongoose.model("Product",ProductSchema);
