@@ -1,3 +1,6 @@
+Here's a Video illustrates how to install the app
+## https://www.youtube.com/watch?v=EEaykmxjMIc
+
 In order to run the application you need to install dependencies After Cloning or downloading this repository you will need to run inside this directory after that
 
 ## npm install
